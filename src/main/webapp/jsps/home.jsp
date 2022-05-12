@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome Kavi.</h1>
+<h1 align="center">Welcome Sneha.</h1>
 <h1 align="center"> Kindly dont sleep. If you get please let tell we will disscus later</h1>
 <hr>
 <br>
@@ -30,13 +30,13 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
+		sneha, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
-		+91-9980923226
-		devopstrainingblr@gmail.com
+		+91-000000000
+		shenalathareddy@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:snehalathareddy@gmail.com">Mail to sneha exports and inports pvt ltd</a>
 	</span>
 </div>
 <hr>
